@@ -1,0 +1,14 @@
+# Python & Environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Raw & Processed Datasets
+data/
+*.parquet
+*.csv
+.tmp/
+duckdb_temp_storage*
+*.duckdb

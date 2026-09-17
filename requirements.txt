@@ -1,0 +1,9 @@
+duckdb
+pandas
+pyarrow
+jupysql
+duckdb-engine
+python-dotenv
+google-cloud-bigquery
+google-cloud-storage
+ipykernel
